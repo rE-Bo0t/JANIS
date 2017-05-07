@@ -1,0 +1,68 @@
+C:\Users\Dell\Desktop\תיקיה חדשה (2)\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe.config
+C:\Users\Dell\Desktop\תיקיה חדשה (2)\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe
+C:\Users\Dell\Desktop\תיקיה חדשה (2)\JanisMark4\JanisMark4\bin\Debug\JanisMark4.pdb
+C:\Users\Dell\Desktop\תיקיה חדשה (2)\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\תיקיה חדשה (2)\JanisMark4\JanisMark4\obj\Debug\JanisMark4.Form1.resources
+C:\Users\Dell\Desktop\תיקיה חדשה (2)\JanisMark4\JanisMark4\obj\Debug\JanisMark4.Properties.Resources.resources
+C:\Users\Dell\Desktop\תיקיה חדשה (2)\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\תיקיה חדשה (2)\JanisMark4\JanisMark4\obj\Debug\JanisMark4.exe
+C:\Users\Dell\Desktop\תיקיה חדשה (2)\JanisMark4\JanisMark4\obj\Debug\JanisMark4.pdb
+E:\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe.config
+E:\JanisMark4\JanisMark4\obj\Debug\JanisMark4.exe
+E:\JanisMark4\JanisMark4\obj\Debug\JanisMark4.pdb
+C:\Users\user\Documents\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe.config
+C:\Users\user\Documents\JanisMark4\JanisMark4\obj\Debug\JanisMark4.exe
+C:\Users\user\Documents\JanisMark4\JanisMark4\obj\Debug\JanisMark4.pdb
+C:\Users\user\Documents\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\JanisMark4\JanisMark4\obj\Debug\JanisMark4.Form1.resources
+C:\Users\user\Documents\JanisMark4\JanisMark4\obj\Debug\JanisMark4.Properties.Resources.resources
+C:\Users\user\Documents\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csproj.GenerateResource.Cache
+C:\Users\user\Documents\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe
+C:\Users\user\Documents\JanisMark4\JanisMark4\bin\Debug\JanisMark4.pdb
+C:\Users\user\Documents\JanisMark4\JanisMark4\obj\Debug\JanisMark4.JanisQuestion.resources
+G:\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe.config
+G:\JanisMark4\JanisMark4\obj\Debug\JanisMark4.exe
+G:\JanisMark4\JanisMark4\obj\Debug\JanisMark4.pdb
+G:\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe
+G:\JanisMark4\JanisMark4\bin\Debug\JanisMark4.pdb
+G:\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csprojResolveAssemblyReference.cache
+G:\JanisMark4\JanisMark4\obj\Debug\JanisMark4.JanisQuestion.resources
+G:\JanisMark4\JanisMark4\obj\Debug\JanisMark4.Properties.Resources.resources
+G:\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csproj.GenerateResource.Cache
+G:\JanisMark4\JanisMark4\obj\Debug\JanisMark4.JanisMainForm.resources
+D:\Sagi Harush\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe.config
+D:\Sagi Harush\JanisMark4\JanisMark4\obj\Debug\JanisMark4.exe
+D:\Sagi Harush\JanisMark4\JanisMark4\obj\Debug\JanisMark4.pdb
+C:\Users\User\Desktop\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe.config
+C:\Users\User\Desktop\JanisMark4\JanisMark4\obj\Debug\JanisMark4.exe
+C:\Users\User\Desktop\JanisMark4\JanisMark4\obj\Debug\JanisMark4.pdb
+G:\DOK\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe.config
+G:\DOK\JanisMark4\JanisMark4\obj\Debug\JanisMark4.exe
+G:\DOK\JanisMark4\JanisMark4\obj\Debug\JanisMark4.pdb
+G:\DOK\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe
+G:\DOK\JanisMark4\JanisMark4\bin\Debug\JanisMark4.pdb
+G:\DOK\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csprojResolveAssemblyReference.cache
+G:\DOK\JanisMark4\JanisMark4\obj\Debug\JanisMark4.JanisMainForm.resources
+G:\DOK\JanisMark4\JanisMark4\obj\Debug\JanisMark4.JanisQuestion.resources
+G:\DOK\JanisMark4\JanisMark4\obj\Debug\JanisMark4.Properties.Resources.resources
+G:\DOK\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csproj.GenerateResource.Cache
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe.config
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\obj\Debug\JanisMark4.exe
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\obj\Debug\JanisMark4.pdb
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\bin\Debug\JanisMark4.exe
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\bin\Debug\JanisMark4.pdb
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csprojResolveAssemblyReference.cache
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\obj\Debug\JanisMark4.JanisMainForm.resources
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\obj\Debug\JanisMark4.JanisQuestion.resources
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\obj\Debug\JanisMark4.Properties.Resources.resources
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark4\JanisMark4\obj\Debug\JanisMark4.csproj.GenerateResource.Cache
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\bin\Debug\JanisMark4.exe.config
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\obj\Debug\JanisMark4.exe
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\obj\Debug\JanisMark4.pdb
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\bin\Debug\JanisMark4.exe
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\bin\Debug\JanisMark4.pdb
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\obj\Debug\JanisMark4.csprojResolveAssemblyReference.cache
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\obj\Debug\JanisMark4.JanisMainForm.resources
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\obj\Debug\JanisMark4.JanisQuestion.resources
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\obj\Debug\JanisMark4.Properties.Resources.resources
+C:\Users\Dell\תיקיה חדשה\לימודים\C#\JanisMark5_2017-04-18\JanisMark4\obj\Debug\JanisMark4.csproj.GenerateResource.Cache
